@@ -2,4 +2,4 @@
 # managed by the application repo workflow (build-and-push action or update-digest-only)
 
 image:
-  digest: "sha256:93faff15c689d5a2b4c71199902129124aab8556567253d9936176e57ba95751"
+  digest: "sha256:a5b31e8c1e16374fbcd9c96f679086ff6a48b25ef51825e52707fcec8f607595"
